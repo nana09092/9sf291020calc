@@ -1,0 +1,23 @@
+.calc-row {
+    height: 100vh;
+    font-family: 'Share Tech Mono', monospace;
+        
+}
+
+.input-window {
+    text-align: end;
+    font-size: x-large;
+    background-color: #F7FDA4;
+
+}
+
+body {
+    background-color: aquamarine;
+ 
+}
+
+
+.card-body {
+    background-color: rgb(243, 233, 200);
+    
+}
